@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/rg-wood.lion-issue-reproduction-fork-lyygsvnq",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve DpfYnjfztSfB3bibhDaZ --open"
+  }
+}
