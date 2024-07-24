@@ -1,7 +1,12 @@
 {
   "name": "@wcd/rg-wood.lion-issue-reproduction-fork-lyygsvnq",
   "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "serve": "npx wcd-cli@latest serve DpfYnjfztSfB3bibhDaZ --open"
+  },
+  "dependencies": {
+    "@lion/ui": "^0.7.4",
+    "typescript": "^5.5.4"
   }
 }
