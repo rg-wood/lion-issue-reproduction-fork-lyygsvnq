@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "serve": "npx wcd-cli@latest serve DpfYnjfztSfB3bibhDaZ --open"
+    "build": "tsc"
   },
   "dependencies": {
     "@lion/ui": "^0.7.4",
